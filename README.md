@@ -1,1 +1,2 @@
 # Entregable-modulo-8
+Se hace entrega del modulo 8, un archivo .pebix que contiene tablas de hechos y de dimensiones. Que es la información con la que se trabaja, y a su vez cuenta con una tabla de medidas (_Medidas) y una tabla de fechas (dim_fechas) que son utilizadas para cálculos necesarias en el análisis. Dichas tablas están relacionadas con una cardinalidad de uno a varios y una dirección de filtro única. La tabla _medidas cuenta con 5 medidas creadas.
